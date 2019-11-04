@@ -40,3 +40,5 @@ export const warning = (...args: any) =>
 
 export const error = (...args: any) =>
   console.log(headerLog, styleString('red'), ...args)
+
+  //hello world
